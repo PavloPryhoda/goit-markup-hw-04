@@ -25,6 +25,11 @@ body {
 }
 
 /* ------------------------------ШАПКА---------------------------------- */
+
+.current {
+  color: #2196f3;
+}
+
 .nav-container {
   display: flex;
   align-items: center;
